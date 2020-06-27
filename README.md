@@ -1,3 +1,4 @@
 Dan Tonthat
 tonthada@oregonstate.edu
-green
+27
+Beatles
